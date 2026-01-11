@@ -57,8 +57,7 @@ This tool helps you quickly understand, analyze, and query resumes (or any PDF d
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pdf-qa-assistant.git
-cd pdf-qa-assistant
+git clone https://github.com/Ganesh153/Resume-Analyzer-Chatbot.git
 ```
 
 ### 2️⃣ Create a Virtual Environment
